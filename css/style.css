@@ -1,3 +1,6 @@
+h1 {
+	font-size: 1.8rem;
+}
 .pricing h2 {
 	text-align: center;
 	margin-bottom: 24px;
@@ -9,7 +12,7 @@
 }
 .card {
 	width: 250px;
-	background-color: #f0f0f0;
+	background-color: #d4d1d1;
 	padding: 16px;
 	border-radius: 8px;
 	box-shadow: 0 2px 5px rgba(0, 0, 0, 0.1);
@@ -47,4 +50,28 @@ button:hover {
 	padding: 4px 8px;
 	border-radius: 4px;
 	font-size: 12px;
+}
+a {
+	text-decoration: none;
+}
+a:hover {
+	color: #1a3c85;
+}
+@media (max-width: 768px) {
+	h1 {
+		font-size: 1.4rem;
+	}
+	.pricing-container {
+		display: flex;
+		flex-direction: column;
+		align-items: center;
+	}
+	.card {
+		width: 90%;
+		margin-bottom: 20px;
+	}
+	button {
+		width: 100%;
+		padding: 12px;
+	}
 }
