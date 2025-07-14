@@ -8,11 +8,11 @@ A responsive pricing section layout built using HTML5, CSS3 (Flexbox & Media Que
 
 ### 💻 Desktop
 
-![Desktop Screenshot](./screenshots/desktop.png)
+![Desktop Screenshot](./screenshots/desktop-view.png)
 
 ### 📱 Mobile
 
-![Mobile Screenshot](./screenshots/mobile.png)
+![Mobile Screenshot](./screenshots/mobile-view.png)
 
 ## 🚀 Tech Used
 
@@ -27,5 +27,3 @@ A responsive pricing section layout built using HTML5, CSS3 (Flexbox & Media Que
 - Clean semantic HTML structure
 - CSS-only “Most Popular” badge using position
 - Fully mobile-friendly design
-
-## 📁 Folder Structure
