@@ -1,27 +1,27 @@
-# Responsive Pricing Table – HTML & CSS
+Responsive Pricing Table – HTML & CSS
 
 A responsive pricing section layout built using HTML5, CSS3 (Flexbox & Media Queries). Deployed via Netlify.
 
 🔗 [Live Demo](https://resonant-dragon-ac7113.netlify.app/)
 
-## 💻 Screenshots
+💻 Screenshots
 
-### 💻 Desktop
+💻 Desktop
 
-![Desktop Screenshot](./screenshots/desktop-view.png)
+![Desktop Screenshot](/screenshots/Desktop-View.png)
 
-### 📱 Mobile
+📱 Mobile
 
-![Mobile Screenshot](./screenshots/mobile-view.png)
+![Mobile Screenshot](/screenshots/Mobile-View.png)
 
-## 🚀 Tech Used
+🚀 Tech Used
 
 - HTML5 (semantic tags)
 - CSS3 (Flexbox, Media Queries)
 - Git & GitHub (version control)
 - Netlify (deployment)
 
-## ✅ Features
+✅ Features
 
 - Responsive pricing cards layout
 - Clean semantic HTML structure
